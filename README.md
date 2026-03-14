@@ -7,9 +7,6 @@ Test your luck and strategy against a smart AI that predicts your moves based on
 
 Play the game online: [Open Rock-Paper-Scissors AI](https://rock-paper-sciappr-v9gbo8827agmhqkwmctmz6.streamlit.app/)  
 
-> Replace the URL above with your actual Streamlit Cloud link.
-
----
 
 ## 🛠 Features
 
@@ -25,3 +22,8 @@ Play the game online: [Open Rock-Paper-Scissors AI](https://rock-paper-sciappr-v
 ---
 
 ## 📂 Project Structure
+rock-paper-scissors-ai/
+│
+├─ professional_ui.py     # Main Streamlit app (the upgraded professional UI)
+├─ requirements.txt       # List of Python packages needed to run the app
+└─ README.md              # Project documentation with live link, features, and instructions
